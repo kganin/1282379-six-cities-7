@@ -1,5 +1,5 @@
 import React from 'react';
-import PlacesList from '../places-list/places-list';
+import PlacesList from '../../places-list/places-list';
 import PropTypes from 'prop-types';
 
 function MainPage({placesCount}) {

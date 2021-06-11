@@ -1,6 +1,6 @@
 import React from 'react';
 
-function SignInPage() {
+function LoginPage() {
 
   return (
     <div>
@@ -60,4 +60,4 @@ function SignInPage() {
   );
 }
 
-export default SignInPage;
+export default LoginPage;
